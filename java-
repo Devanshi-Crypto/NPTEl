@@ -1,0 +1,21 @@
+//Complete the code segment to call the method print() of class Student first and then call print() method of class School
+public class Question212{ 
+ 
+    public static void main(String[] args) {
+        // Create an object of class Student
+        class Student{
+      
+// Call 'print()' method of class Student 
+           public void print() { 
+		 
+    }
+}
+// Create an object of class School
+       class School{
+// Call 'print()' method of class School
+           public void print() {} 
+       }
+    }
+}
+
+
